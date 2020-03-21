@@ -1,6 +1,6 @@
 # Linux Programming Notes
 
-This project aims to organize my notes for the Linux Programming course instructed by Jianjian Song.
+This project aims to organize my notes for the Linux Programming.
 
 ## Organization
 
