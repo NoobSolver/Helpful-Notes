@@ -1,6 +1,6 @@
-# Linux Basic
+## Linux Basic
 
-## Philosophy
+### Philosophy
 
 As Linux is a UNIX-like operating system, it shares UNIX philosophy. And the most famous one is **KISS**, i.e. Keep It Simple and Stupid.
 
